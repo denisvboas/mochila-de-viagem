@@ -4,12 +4,12 @@ Projeto realizado durante o curso de Javascript: armazenando dados no navegador 
 
 ## 🚀Tecnologias
 
-As tecnologias utilizadas no curso foram:
+As tecnologias utilizadas nesse curso foram:
 
--HTML
--CSS
--Javascript
--Git e Github
+ - HTML
+ - CSS
+ - Javascript
+ - Git e GitHub
 
 ## 🏷️Layout 
 
